@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>FlixLogin</title>
+    <description>Usuários do StreamMax</description>
+    <lastBuildDate>Wed, 10 Dec 2025 06:10:59 GMT</lastBuildDate>
+    <item>
+      <username>admin</username>
+      <password>admin123</password>
+      <subscription>undefined</subscription>
+      <expiry>undefined</expiry>
+      <cargo>superadmin</cargo>
+    </item>
+  </channel>
+</rss>
