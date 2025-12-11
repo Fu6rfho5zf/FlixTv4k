@@ -3,13 +3,20 @@
   <channel>
     <title>FlixLogin</title>
     <description>Usuários do StreamMax</description>
-    <lastBuildDate>Wed, 10 Dec 2025 06:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 18:28:56 GMT</lastBuildDate>
     <item>
       <username>admin</username>
       <password>admin123</password>
       <subscription>undefined</subscription>
       <expiry>undefined</expiry>
       <cargo>superadmin</cargo>
+    </item>
+    <item>
+      <username>1234567</username>
+      <password>1234567</password>
+      <subscription>platina</subscription>
+      <expiry>2026-11-30</expiry>
+      <cargo>admin</cargo>
     </item>
   </channel>
 </rss>
