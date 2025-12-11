@@ -3,7 +3,7 @@
   <channel>
     <title>FlixLogin</title>
     <description>Usuários do StreamMax</description>
-    <lastBuildDate>Thu, 11 Dec 2025 18:28:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 19:41:54 GMT</lastBuildDate>
     <item>
       <username>admin</username>
       <password>admin123</password>
@@ -20,6 +20,3 @@
     </item>
   </channel>
 </rss>
-
-
-
