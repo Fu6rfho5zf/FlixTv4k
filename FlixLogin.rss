@@ -2,8 +2,15 @@
 <rss version="2.0">
   <channel>
     <title>FlixLogin</title>
-    <description>Usuários do StreamMax</description>
-    <lastBuildDate>Fri, 12 Dec 2025 01:48:17 GMT</lastBuildDate>
+    <description>Usuários do FLIX TV Max</description>
+    <lastBuildDate>Fri, 12 Dec 2025 04:18:55 GMT</lastBuildDate>
+    <item>
+      <username>daniel</username>
+      <password>daniel</password>
+      <subscription>undefined</subscription>
+      <expiry>undefined</expiry>
+      <cargo>superadmin</cargo>
+    </item>
     <item>
       <username>admin</username>
       <password>admin123</password>
