@@ -15,11 +15,11 @@
     </image>
     <item>
       <title>Livge Gaming</title>
-      <link>https://rede-qdm.tvr.ovh/tv-kidmais/tv-kidmais/chunklist_w1255336925.m3u8</link>
+      <link>https://download-video-ak.vimeocdn.com/v3-1/playback/e99d41ce-1c36-4b97-82c2-7b1f4de5ee72/88b00f93-5894073c?__token__=st=1765898558~exp=1765902158~acl=%2Fv3-1%2Fplayback%2Fe99d41ce-1c36-4b97-82c2-7b1f4de5ee72%2F88b00f93-5894073c%2A~hmac=144beec4a57857e7469c12003ccf110bbfc3e528cfc17bc54a9b97e8b797cbd8&r=dXMtZWFzdDE%3D</link>
       <description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
-      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/m3u8" width="1280" isDefault="true" url="https://rede-qdm.tvr.ovh/tv-kidmais/tv-kidmais/chunklist_w1255336925.m3u8">
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://download-video-ak.vimeocdn.com/v3-1/playback/e99d41ce-1c36-4b97-82c2-7b1f4de5ee72/88b00f93-5894073c?__token__=st=1765898558~exp=1765902158~acl=%2Fv3-1%2Fplayback%2Fe99d41ce-1c36-4b97-82c2-7b1f4de5ee72%2F88b00f93-5894073c%2A~hmac=144beec4a57857e7469c12003ccf110bbfc3e528cfc17bc54a9b97e8b797cbd8&r=dXMtZWFzdDE%3D">
         <media:description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</media:description>
         <media:keywords>episode 21, roku recommends, twitch</media:keywords>
         <media:thumbnail url="https://devtools.web.roku.com/samples/images/rr/j5_.540x304.jpeg" />
@@ -210,3 +210,4 @@
     </item>
   </channel>
 </rss>
+
