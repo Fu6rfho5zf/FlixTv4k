@@ -1,22 +1,185 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
-  <title>Canais de TV AO VIVO</title>
-  <item>
-    <title>Canal 1 k- Notícias</title>
-    <description>Canal de notícias 24 horas</description>
-    <media:content url="https://rede-qdm.tvr.ovh/tv-kidmais/tv-kidmais/chunklist_w1255336925.m3u8" />
-    <media:thumbnail url="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/183/183_img_bg_image_293x165_small.jpg" />
-    <category>INFANTIL</category>
-    <category>Ao Vivo</category>
-  </item>
-  <item>
-    <title>Canal 2 - Esportes</title>
-    <description>Transmissão esportiva ao vivo</description>
-    <media:content url="https://stream.url/canal2.m3u8" />
-    <media:thumbnail url="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/images/canal2.jpg" />
-    <category>Esportes</category>
-    <category>Ao Vivo</category>
-  </item>
+<title>Canais de TV AO VIVO</title>
+<link>https://seusite.com</link>
+<description>Canais de TV gratuitos ao vivo para streaming</description>
+<language>pt-br</language>
+<pubDate>Thu, 11 Nov 2015 20:30:54 GMT</pubDate>
+<image>
+<title>Canais de TV AO VIVO</title>
+<url>https://seusite.com/logo.png</url>
+<width>-1</width>
+<height>-1</height>
+</image>
+
+<item>
+<title>Canal 1 - Notícias</title>
+<link>https://rede-qdm.tvr.ovh/tv-kidmais/tv-kidmais/chunklist_w1255336925.m3u8</link>
+<description>Canal de notícias 24 horas</description>
+<pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+<guid isPermaLink="false">canal1_noticias_123456</guid>
+<media:content channels="2" bitrate="2500.0" duration="0" fileSize="0" framerate="30" height="720" type="video/m3u8" width="1280" isDefault="true" url="https://rede-qdm.tvr.ovh/tv-kidmais/tv-kidmais/chunklist_w1255336925.m3u8">
+<media:description>Canal de notícias 24 horas</media:description>
+<media:keywords>notícias, jornalismo, ao vivo</media:keywords>
+<media:thumbnail url="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/183/183_img_bg_image_293x165_small.jpg" />
+<media:title>Canal 1 - Notícias</media:title>
+</media:content>
+<category>Notícias</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 2 - Esportes</title>
+<link>https://stream.url/canal2.m3u8</link>
+<description>Transmissão esportiva ao vivo</description>
+<pubDate>Thu, 21 May 2015 18:47:20 GMT</pubDate>
+<guid isPermaLink="false">canal2_esportes_789012</guid>
+<media:content channels="2" bitrate="3000.0" duration="0" fileSize="0" framerate="60" height="1080" type="video/m3u8" width="1920" isDefault="true" url="https://stream.url/canal2.m3u8">
+<media:description>Transmissão esportiva ao vivo</media:description>
+<media:keywords>esportes, futebol, ao vivo</media:keywords>
+<media:thumbnail url="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/images/canal2.jpg" />
+<media:title>Canal 2 - Esportes</media:title>
+</media:content>
+<category>Esportes</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 3 - Filmes</title>
+<link>https://stream.url/filmes.mp4</link>
+<description>Canal de filmes 24 horas</description>
+<pubDate>Thu, 21 May 2015 18:45:58 GMT</pubDate>
+<guid isPermaLink="false">canal3_filmes_345678</guid>
+<media:content channels="2" bitrate="2000.0" duration="0" fileSize="0" framerate="24" height="720" type="video/mp4" width="1280" isDefault="true" url="https://stream.url/filmes.mp4">
+<media:description>Canal de filmes 24 horas</media:description>
+<media:keywords>filmes, cinema, entretenimento</media:keywords>
+<media:thumbnail url="https://seusite.com/images/filmes.jpg" />
+<media:title>Canal 3 - Filmes</media:title>
+</media:content>
+<category>Filmes</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 4 - Infantil</title>
+<link>https://stream.url/infantil.ts</link>
+<description>Conteúdo infantil educativo</description>
+<pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+<guid isPermaLink="false">canal4_infantil_901234</guid>
+<media:content channels="2" bitrate="1500.0" duration="0" fileSize="0" framerate="25" height="480" type="video/ts" width="854" isDefault="true" url="https://stream.url/infantil.ts">
+<media:description>Conteúdo infantil educativo</media:description>
+<media:keywords>infantil, crianças, educação</media:keywords>
+<media:thumbnail url="https://seusite.com/images/infantil.jpg" />
+<media:title>Canal 4 - Infantil</media:title>
+</media:content>
+<category>Infantil</category>
+<category>Educação</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 5 - Documentários</title>
+<link>https://stream.url/documentarios.m3u8</link>
+<description>Documentários educativos</description>
+<pubDate>Thu, 28 May 2015 17:01:28 GMT</pubDate>
+<guid isPermaLink="false">canal5_documentarios_567890</guid>
+<media:content channels="2" bitrate="1800.0" duration="0" fileSize="0" framerate="30" height="720" type="video/m3u8" width="1280" isDefault="true" url="https://stream.url/documentarios.m3u8">
+<media:description>Documentários educativos</media:description>
+<media:keywords>documentários, educação, ciência</media:keywords>
+<media:thumbnail url="https://seusite.com/images/documentarios.jpg" />
+<media:title>Canal 5 - Documentários</media:title>
+</media:content>
+<category>Documentários</category>
+<category>Educação</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 6 - Música</title>
+<link>https://stream.url/musica.png</link>
+<description>Canal de música 24 horas</description>
+<pubDate>Thu, 02 Jul 2015 17:28:21 GMT</pubDate>
+<guid isPermaLink="false">canal6_musica_123789</guid>
+<media:content channels="2" bitrate="1200.0" duration="0" fileSize="0" framerate="30" height="360" type="video/png" width="640" isDefault="true" url="https://stream.url/musica.png">
+<media:description>Canal de música 24 horas</media:description>
+<media:keywords>música, shows, entretenimento</media:keywords>
+<media:thumbnail url="https://seusite.com/images/musica.jpg" />
+<media:title>Canal 6 - Música</media:title>
+</media:content>
+<category>Música</category>
+<category>Entretenimento</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 7 - Séries</title>
+<link>https://stream.url/series.m3u8</link>
+<description>Séries de TV 24 horas</description>
+<pubDate>Thu, 27 Aug 2015 17:32:45 GMT</pubDate>
+<guid isPermaLink="false">canal7_series_456123</guid>
+<media:content channels="2" bitrate="2200.0" duration="0" fileSize="0" framerate="30" height="720" type="video/m3u8" width="1280" isDefault="true" url="https://stream.url/series.m3u8">
+<media:description>Séries de TV 24 horas</media:description>
+<media:keywords>séries, TV, entretenimento</media:keywords>
+<media:thumbnail url="https://seusite.com/images/series.jpg" />
+<media:title>Canal 7 - Séries</media:title>
+</media:content>
+<category>Séries</category>
+<category>Entretenimento</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 8 - Notícias Internacional</title>
+<link>https://stream.url/internacional.mp4</link>
+<description>Notícias internacionais 24 horas</description>
+<pubDate>Thu, 13 Aug 2015 17:48:45 GMT</pubDate>
+<guid isPermaLink="false">canal8_internacional_789456</guid>
+<media:content channels="2" bitrate="2800.0" duration="0" fileSize="0" framerate="30" height="1080" type="video/mp4" width="1920" isDefault="true" url="https://stream.url/internacional.mp4">
+<media:description>Notícias internacionais 24 horas</media:description>
+<media:keywords>notícias, internacional, mundo</media:keywords>
+<media:thumbnail url="https://seusite.com/images/internacional.jpg" />
+<media:title>Canal 8 - Notícias Internacional</media:title>
+</media:content>
+<category>Notícias</category>
+<category>Internacional</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 9 - Esportes Radicais</title>
+<link>https://stream.url/radicais.ts</link>
+<description>Esportes radicais e aventura</description>
+<pubDate>Thu, 30 Apr 2015 17:31:21 GMT</pubDate>
+<guid isPermaLink="false">canal9_radicais_321654</guid>
+<media:content channels="2" bitrate="1900.0" duration="0" fileSize="0" framerate="60" height="720" type="video/ts" width="1280" isDefault="true" url="https://stream.url/radicais.ts">
+<media:description>Esportes radicais e aventura</media:description>
+<media:keywords>esportes, radicais, aventura</media:keywords>
+<media:thumbnail url="https://seusite.com/images/radicais.jpg" />
+<media:title>Canal 9 - Esportes Radicais</media:title>
+</media:content>
+<category>Esportes</category>
+<category>Radicais</category>
+<category>Ao Vivo</category>
+</item>
+
+<item>
+<title>Canal 10 - Comédia</title>
+<link>https://stream.url/comedia.m3u8</link>
+<description>Canal de comédia 24 horas</description>
+<pubDate>Thu, 10 Sep 2015 17:44:42 GMT</pubDate>
+<guid isPermaLink="false">canal10_comedia_987123</guid>
+<media:content channels="2" bitrate="1700.0" duration="0" fileSize="0" framerate="30" height="720" type="video/m3u8" width="1280" isDefault="true" url="https://stream.url/comedia.m3u8">
+<media:description>Canal de comédia 24 horas</media:description>
+<media:keywords>comédia, humor, entretenimento</media:keywords>
+<media:thumbnail url="https://seusite.com/images/comedia.jpg" />
+<media:title>Canal 10 - Comédia</media:title>
+</media:content>
+<category>Comédia</category>
+<category>Entretenimento</category>
+<category>Ao Vivo</category>
+</item>
+
 </channel>
 </rss>
