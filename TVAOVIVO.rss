@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Canais de TV AO VIVO</title>
+  <item>
+    <title>Canal 1 k- Notícias</title>
+    <description>Canal de notícias 24 horas</description>
+    <media:content url="https://rede-qdm.tvr.ovh/tv-kidmais/tv-kidmais/chunklist_w1255336925.m3u8" />
+    <media:thumbnail url="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/183/183_img_bg_image_293x165_small.jpg" />
+    <category>INFANTIL</category>
+    <category>Ao Vivo</category>
+  </item>
+  <item>
+    <title>Canal 2 - Esportes</title>
+    <description>Transmissão esportiva ao vivo</description>
+    <media:content url="https://stream.url/canal2.m3u8" />
+    <media:thumbnail url="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/images/canal2.jpg" />
+    <category>Esportes</category>
+    <category>Ao Vivo</category>
+  </item>
+</channel>
+</rss>
