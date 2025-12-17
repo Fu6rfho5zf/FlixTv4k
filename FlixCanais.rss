@@ -1,3 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <series>
+  <show>
+    <title><![CDATA[24H Filmes Comédia]]></title>
+    <posterUrl><![CDATA[https://logos.imperioapps.xyz/24H.png]]></posterUrl>
+    <description><![CDATA[Importado de feed_iptv_24h_filmes.json]]></description>
+    <genre><![CDATA[Canais | 24H Filmes]]></genre>
+    <year></year>
+    <episode>
+      <url><![CDATA[http://arenaf.shop:80/071865048407/826852654079/2525215.ts]]></url>
+    </episode>
+  </show>
+  <show>
+    <title><![CDATA[SBT Folia]]></title>
+    <posterUrl><![CDATA[https://image.tmdb.org/t/p/w500/1YxSaRUdFYFmPl3RqXCKBXLVs0d.jpg]]></posterUrl>
+    <description><![CDATA[Acompanhe a cobertura do carnaval da Bahia.]]></description>
+    <genre><![CDATA[Aberta]]></genre>
+    <year>2011</year>
+    <episode>
+      <url><![CDATA[https://sbtbem.m3u8]]></url>
+    </episode>
+  </show>
+  <show>
+    <title><![CDATA[Rolê Gloob]]></title>
+    <posterUrl><![CDATA[https://image.tmdb.org/t/p/w500/3sYvhRhF75Aa7Sc4NCj6H4O4xs9.jpg]]></posterUrl>
+    <description><![CDATA[Pippo e Berê apresentam o ""Rolê Gloob"", um programa ao vivo, cheio de brincadeiras e diversão, integrando programação linear com o universo digital.]]></description>
+    <genre><![CDATA[Infantil]]></genre>
+    <year>2020</year>
+    <episode>
+      <url><![CDATA[https://raw.githubusercontent.com/Fu6rfho5zf/FlixTv4k/refs/heads/main/TVAOVIVO.m3u8]]></url>
+    </episode>
+  </show>
 </series>
