@@ -3,10 +3,10 @@
   <channel>
     <title>FlixLogin</title>
     <description>Usuários do FLIX TV Max</description>
-    <lastBuildDate>Wed, 17 Dec 2025 13:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 15:36:49 GMT</lastBuildDate>
     <item>
-      <username>admin</username>
-      <password>admin123</password>
+      <username>daniel</username>
+      <password>daniel</password>
       <subscription>undefined</subscription>
       <expiry>undefined</expiry>
       <cargo>superadmin</cargo>
