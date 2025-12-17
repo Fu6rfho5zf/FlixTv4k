@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>FlixSeries</title>
-    <description>Conteúdo series do FLIX TV Max</description>
-    <lastBuildDate>Wed, 17 Dec 2025 13:39:11 GMT</lastBuildDate>
-    <item>
-      <title><![CDATA[Turma da Mônica]]></title>
-      <description><![CDATA[Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Acompanhe todas as aventuras de Mônica, Cebolinha, Cascão, Magali e do resto da turminha.]]></description>
-      <category><![CDATA[Anime]]></category>
-      <pubDate>Wed, 17 Dec 2025 13:37:54 GMT</pubDate>
-      <media:content url="https://image.tmdb.org/t/p/w500/jsI9PztwfMBE9LyJqPkWJOAvHD6.m3u8" type="video/m3u8">
-        <media:thumbnail url="https://image.tmdb.org/t/p/w500/jsI9PztwfMBE9LyJqPkWJOAvHD6.jpg"/>
-      </media:content>
-    </item>
+    <title>FLIX TV - Conteúdo Original</title>
+    <link>https://flixtv.app</link>
+    <description>Feed de vídeos originais para aplicativo Roku FLIX TV</description>
+    <language>pt-br</language>
+    <pubDate>Wed, 17 Dec 2025 15:36:44 GMT</pubDate>
+
+    <image>
+      <title>FLIX TV</title>
+      <url>https://flixtv.app/images/logo_600x600.png</url>
+      <width>600</width>
+      <height>600</height>
+    </image>
+
   </channel>
 </rss>
