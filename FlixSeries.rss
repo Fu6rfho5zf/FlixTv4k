@@ -5,7 +5,7 @@
     <link>https://flixtv.app</link>
     <description>Feed de vídeos originais para aplicativo Roku FLIX TV</description>
     <language>pt-br</language>
-    <pubDate>Wed, 17 Dec 2025 15:36:44 GMT</pubDate>
+    <pubDate>Wed, 17 Dec 2025 15:39:46 GMT</pubDate>
 
     <image>
       <title>FLIX TV</title>
@@ -13,6 +13,74 @@
       <width>600</width>
       <height>600</height>
     </image>
+
+    <!-- CONTEÚDO 1 -->
+    <item>
+      <title><![CDATA[SBT Repórter]]></title>
+      <link><![CDATA[https://image.tmdb.org/t/p/w500/m8TPomnioDqZp7SQdD1A5TBt1HH.jpg]]></link>
+      <description>
+        <![CDATA[Com uma linguagem direta e abordando temas variados e de interesse coletivo, este programa jornalístico mostra o que acontece no Brasil e no mundo.]]>
+      </description>
+      <pubDate>Wed, 17 Dec 2025 15:39:19 GMT</pubDate>
+      <guid isPermaLink="false">flixtv-series-1</guid>
+
+      <media:content
+        url="https://image.tmdb.org/t/p/w500/m8TPomnioDqZp7SQdD1A5TBt1HH.jpg"
+        type="video/m3u8"
+        duration="600"
+        bitrate="2500"
+        width="1920"
+        height="1080"
+        framerate="30"
+        channels="2"
+        isDefault="true">
+
+        <media:title><![CDATA[SBT Repórter]]></media:title>
+
+        <media:description>
+          <![CDATA[Com uma linguagem direta e abordando temas variados e de interesse coletivo, este programa jornalístico mostra o que acontece no Brasil e no mundo.]]>
+        </media:description>
+
+        <media:keywords>ação</media:keywords>
+
+        <media:thumbnail
+          url="https://image.tmdb.org/t/p/w500/m8TPomnioDqZp7SQdD1A5TBt1HH.jpg" />
+      </media:content>
+    </item>
+
+    <!-- CONTEÚDO 2 -->
+    <item>
+      <title><![CDATA[SVT]]></title>
+      <link><![CDATA[https://image.tmdb.org/t/p/w500/m8TPomnioDqZp7SQdD1A5TBt1HH.jpg]]></link>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <pubDate>Wed, 17 Dec 2025 15:39:36 GMT</pubDate>
+      <guid isPermaLink="false">flixtv-series-2</guid>
+
+      <media:content
+        url="https://image.tmdb.org/t/p/w500/m8TPomnioDqZp7SQdD1A5TBt1HH.jpg"
+        type="video/m3u8"
+        duration="600"
+        bitrate="2500"
+        width="1920"
+        height="1080"
+        framerate="30"
+        channels="2"
+        isDefault="true">
+
+        <media:title><![CDATA[SVT]]></media:title>
+
+        <media:description>
+          <![CDATA[]]>
+        </media:description>
+
+        <media:keywords>ação</media:keywords>
+
+        <media:thumbnail
+          url="" />
+      </media:content>
+    </item>
 
   </channel>
 </rss>
