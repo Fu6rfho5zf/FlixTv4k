@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>FlixFilmes</title>
-    <description>Conteúdo filmes do FLIX TV Max</description>
-    <lastBuildDate>Wed, 17 Dec 2025 13:39:09 GMT</lastBuildDate>
+    <title>FLIX TV - Conteúdo Original</title>
+    <link>https://flixtv.app</link>
+    <description>Feed de vídeos originais para aplicativo Roku FLIX TV</description>
+    <language>pt-br</language>
+    <pubDate>Wed, 17 Dec 2025 15:36:42 GMT</pubDate>
+
+    <image>
+      <title>FLIX TV</title>
+      <url>https://flixtv.app/images/logo_600x600.png</url>
+      <width>600</width>
+      <height>600</height>
+    </image>
+
   </channel>
 </rss>
