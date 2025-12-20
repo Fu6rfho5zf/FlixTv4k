@@ -1,0 +1,58 @@
+#EXTM3U
+
+############################
+# TV AO VIVO
+############################
+
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rede_Globo_logo.png" group-title="TV AO VIVO",TV Globo
+https://example.com/globo.m3u8
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/SBT_logo_2020.png" group-title="TV AO VIVO",SBT
+https://example.com/sbt.m3u8
+
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Record_TV_logo_2018.png" group-title="TV AO VIVO",Record TV
+https://example.com/record.m3u8
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Band_logo_2021.png" group-title="TV AO VIVO",Band
+https://example.com/band.m3u8
+
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Rede_Vida_logo.png" group-title="TV AO VIVO",Rede Vida
+https://example.com/redevida.m3u8
+
+############################
+# FILMES
+############################
+
+#EXTINF:-1 tvg-id="avatar2009" tvg-name="Avatar (2009)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg" group-title="FILMES",Avatar (2009)
+https://example.com/avatar.m3u8
+
+#EXTINF:-1 tvg-id="titanic1997" tvg-name="Titanic (1997)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Titanic_poster.jpg" group-title="FILMES",Titanic (1997)
+https://example.com/titanic.m3u8
+
+#EXTINF:-1 tvg-id="avengers2012" tvg-name="Os Vingadores (2012)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg" group-title="FILMES",Os Vingadores (2012)
+https://example.com/vingadores.m3u8
+
+#EXTINF:-1 tvg-id="jurassic1993" tvg-name="Jurassic Park (1993)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg" group-title="FILMES",Jurassic Park (1993)
+https://example.com/jurassic.m3u8
+
+#EXTINF:-1 tvg-id="matrix1999" tvg-name="Matrix (1999)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg" group-title="FILMES",Matrix (1999)
+https://example.com/matrix.m3u8
+
+############################
+# SÉRIES
+############################
+
+#EXTINF:-1 tvg-id="breakingbad" tvg-name="Breaking Bad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png" group-title="SÉRIES",Breaking Bad
+https://example.com/breakingbad.m3u8
+
+#EXTINF:-1 tvg-id="strangerthings" tvg-name="Stranger Things" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png" group-title="SÉRIES",Stranger Things
+https://example.com/strangerthings.m3u8
+
+#EXTINF:-1 tvg-id="theboys" tvg-name="The Boys" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Boys_TV_series_logo.png" group-title="SÉRIES",The Boys
+https://example.com/theboys.m3u8
+
+#EXTINF:-1 tvg-id="dark" tvg-name="Dark" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Dark_Netflix_logo.png" group-title="SÉRIES",Dark
+https://example.com/dark.m3u8
+
+#EXTINF:-1 tvg-id="lacasadepapel" tvg-name="La Casa de Papel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Money_Heist_logo.png" group-title="SÉRIES",La Casa de Papel
+https://example.com/lacasadepapel.m3u8
