@@ -1,0 +1,146 @@
+{
+  "endpoints": {
+    "get_content_groups": "/get_content.php?type=0&sort=0&id=0&limit=100&offset=0",
+    "get_live_channels": "/get_content.php?type=1&sort=0&id=101&limit=100&offset=0",
+    "get_vod_movies": "/get_content.php?type=1&sort=0&id=102&limit=100&offset=0",
+    "get_epg": "/get_epg.php?sort=0&id=101&limit=100&offset=0"
+  },
+  "responses": {
+    "get_content_groups": {
+      "data": {
+        "type": 0,
+        "id": 1,
+        "name": "Menu Principal",
+        "total": 3,
+        "values": [
+          {
+            "id": 101,
+            "name": "TV Ao Vivo",
+            "year": 0
+          },
+          {
+            "id": 102,
+            "name": "Filmes VOD",
+            "year": 0
+          },
+          {
+            "id": 103,
+            "name": "Séries de TV",
+            "year": 0
+          }
+        ]
+      }
+    },
+    "get_live_channels": {
+      "data": {
+        "type": 1,
+        "id": 101,
+        "name": "Canais de TV Ao Vivo",
+        "total": 2,
+        "values": [
+          {
+            "id": 201,
+            "number": 1,
+            "name": "Notícias 24h",
+            "logo_url": "http://seuservidor.com/logos/noticias.png",
+            "url": "http://seuservidor.com/streams/noticias.m3u8",
+            "extension": ".m3u8",
+            "headers": "User-Agent: Roku\r\nReferer: http://seuservidor.com",
+            "favorite": 1
+          },
+          {
+            "id": 202,
+            "number": 2,
+            "name": "Esportes HD",
+            "logo_url": "http://seuservidor.com/logos/esportes.png",
+            "url": "http://seuservidor.com/streams/esportes.ts",
+            "extension": ".ts",
+            "headers": "",
+            "favorite": 0
+          }
+        ]
+      }
+    },
+    "get_vod_movies": {
+      "data": {
+        "type": 1,
+        "id": 102,
+        "name": "Filmes de Ação",
+        "total": 1,
+        "values": [
+          {
+            "id": 301,
+            "name": "Aventura no Espaço",
+            "subtitle_url": "http://seuservidor.com/legendas/aventura.vtt",
+            "logo_url": "http://seuservidor.com/posters/aventura.jpg",
+            "url": "http://seuservidor.com/vod/aventura.mp4",
+            "extension": ".mp4",
+            "year": 2023,
+            "headers": "Authorization: Bearer token",
+            "series_name": "N/A",
+            "season_name": "N/A",
+            "season": 0,
+            "episode": 0
+          }
+        ]
+      }
+    },
+    "get_epg": {
+      "data": {
+        "id": 101,
+        "name": "Guia de Programação",
+        "total": 2,
+        "values": [
+          {
+            "id": 201,
+            "number": 1,
+            "name": "Notícias 24h",
+            "logo_url": "http://seuservidor.com/logos/noticias.png",
+            "url": "http://seuservidor.com/streams/noticias.m3u8",
+            "extension": ".m3u8",
+            "headers": "User-Agent: Roku\r\nReferer: http://seuservidor.com",
+            "favorite": 1,
+            "programs": [
+              {
+                "title": "Jornal da Manhã",
+                "description": "As principais notícias do dia, ao vivo.",
+                "start": 1734681600,
+                "stop": 1734685200
+              },
+              {
+                "title": "Debate Político",
+                "description": "Análise aprofundada dos acontecimentos políticos.",
+                "start": 1734685200,
+                "stop": 1734688800
+              }
+            ]
+          },
+          {
+            "id": 202,
+            "number": 2,
+            "name": "Esportes HD",
+            "logo_url": "http://seuservidor.com/logos/esportes.png",
+            "url": "http://seuservidor.com/streams/esportes.ts",
+            "extension": ".ts",
+            "headers": "",
+            "favorite": 0,
+            "programs": [
+              {
+                "title": "Pré-Jogo",
+                "description": "Análise e expectativas para o jogo de hoje.",
+                "start": 1734681600,
+                "stop": 1734683400
+              },
+              {
+                "title": "Futebol Ao Vivo",
+                "description": "Transmissão ao vivo do campeonato nacional.",
+                "start": 1734683400,
+                "stop": 1734690600
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
